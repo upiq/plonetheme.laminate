@@ -1,0 +1,5 @@
+====================
+plonetheme.laminate
+====================
+
+User documentation
